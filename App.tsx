@@ -1,6 +1,5 @@
-
 import React from 'react';
-import Header from './Components/Header';
+import Header from './components/Header';
 import Hero from './components/Hero';
 import Services from './components/Services';
 import About from './components/About';
