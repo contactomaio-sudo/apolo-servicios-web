@@ -1,6 +1,6 @@
 
 import React from 'react';
-import Header from './**components**/Header (o viceversa) porque su tsconfig.json';
+import Header from './Components/Header';
 import Hero from './components/Hero';
 import Services from './components/Services';
 import About from './components/About';
